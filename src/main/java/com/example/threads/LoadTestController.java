@@ -15,7 +15,7 @@ public class LoadTestController {
     @GetMapping
     public void doSomething() throws InterruptedException {
         LOG.info("hey, I'm doing something");
-        // Thread.sleep(1000);
+        Thread.sleep(1000);
     }
     
 }
