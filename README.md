@@ -56,3 +56,11 @@ The main entry point for the Spring Boot application.
 
 ## Summary
 This project showcases the use of virtual threads in a Spring Boot application to handle HTTP requests efficiently. It includes REST endpoints for thread operations, configuration for virtual threads, and unit tests to ensure functionality. The project is built using Maven and follows best practices for Spring Boot applications.
+
+## Documentation
+For comprehensive business requirements, stakeholder analysis, and project objectives, see the [Business Requirements Document (BRD)](docs/Business_Requirements_Document.md).
+
+### Quick Links
+- [Full Documentation Index](docs/README.md)
+- [Business Requirements Document](docs/Business_Requirements_Document.md)
+- [Business Objectives & Success Criteria](docs/Business_Requirements_Document.md#2-business-objectives)
